@@ -2,7 +2,8 @@
 
 ## Homework
 
-| #    | Title                              |
-| ---- | ---------------------------------- |
-| 1    | 卡方檢定、皮爾森相關係數、共變異數 |
+| #    | Title                                                        |
+| ---- | ------------------------------------------------------------ |
+| 1    | Chi-squared test, Pearson correlation coefficient, Covariance |
+| 4    | Decision tree, Random forest, Naive Bayes classifier         |
 
