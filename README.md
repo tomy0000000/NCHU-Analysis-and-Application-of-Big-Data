@@ -6,4 +6,5 @@
 | ---- | ------------------------------------------------------------ |
 | 1    | Chi-squared test, Pearson correlation coefficient, Covariance |
 | 4    | Decision tree, Random forest, Naive Bayes classifier         |
+| 5    | ANN                                                          |
 
