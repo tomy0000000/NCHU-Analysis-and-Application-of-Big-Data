@@ -4,8 +4,8 @@
 
 | #    | Title                                                        |
 | ---- | ------------------------------------------------------------ |
-| 1    | Chi-squared test, Pearson correlation coefficient, Covariance |
-| 4    | Decision tree, Random forest, Naive Bayes classifier         |
-| 5    | ANN                                                          |
-| 6    | Association Rules                                            |
+| 1    | [Chi-Squared Test](https://en.wikipedia.org/wiki/Chi-squared_test), [Pearson Correlation Coefficient](https://en.wikipedia.org/wiki/Pearson_correlation_coefficient), [Covariance](https://en.wikipedia.org/wiki/Covariance) |
+| 4    | [Decision Tree](https://en.wikipedia.org/wiki/Decision_tree), [Random Forest](https://en.wikipedia.org/wiki/Random_forest), [Naive Bayes Classifier](https://en.wikipedia.org/wiki/Naive_Bayes_classifier) |
+| 5    | [Artificial Neural Network](https://en.wikipedia.org/wiki/Artificial_neural_network) |
+| 6    | [Association Rules](https://en.wikipedia.org/wiki/Association_rule_learning) |
 
