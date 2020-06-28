@@ -9,3 +9,23 @@
 | 5    | [Artificial Neural Network](https://en.wikipedia.org/wiki/Artificial_neural_network) |
 | 6    | [Association Rules](https://en.wikipedia.org/wiki/Association_rule_learning) |
 
+## Project - Hotel Booking Demand
+
+* PreProcessing
+  * Drop unnecessary columns
+  * Fill null values with column distribution
+  * Convert column data type
+    * Boolean
+    * Datetime
+    * Timedelta
+    * Literal month to integer
+    * Merge seperated date
+    * One Hot Encoding
+* Visualize Bookings
+  * by Country
+  * by Arrival time: (Month, Week) × (Overall, Family)
+* Relations
+  * Cancel Date and Check-In Date
+  * Booking Date and Check-In Date
+* Reasoning Canceled Booking
+* Statistic Lowest Booking Prices
